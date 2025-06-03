@@ -32,7 +32,7 @@ You can install the dependencies via:
 
 ```bash
 pip install matplotlib Pillow opencv-python
-'''
+```
 
 Usage Flow
 1.Load Image: Opens a file dialog to load a single image.
