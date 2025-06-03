@@ -34,7 +34,7 @@ You can install the dependencies via:
 pip install matplotlib Pillow opencv-python
 ```
 
-Usage Flow
+## Usage Flow
 1.Load Image: Opens a file dialog to load a single image.
 
 2.Load Folder: Loads all images in a selected folder.
