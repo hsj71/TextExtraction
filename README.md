@@ -36,7 +36,8 @@ pip install matplotlib Pillow opencv-python
 
 ## Usage Flow
 1.Load Image: Opens a file dialog to load a single image.
-![UI](https://github.com/hsj71/TextExtraction/blob/main/Images/Screenshot%20(698).png)
+<img src="https://github.com/hsj71/TextExtraction/blob/main/Images/Screenshot%20(698).png" width="50%">
+
 2.Load Folder: Loads all images in a selected folder.
 
 3.Extract Text: Extracts and displays text from the image.
